@@ -1,17 +1,15 @@
-# {Team Name} - URL shortener {🧪}
-
-This is a template project for "Software testing" course labs. Use it to create your own repo and 
-fulfill/rewrite this document (at least, replace everything in `{...}`).
+# Testzone - URL shortener {🧪}
 
 ## Students group
 
-- {Surname Name (in Ukrainian)} {email}
-- ...
-- {Surname Name (in Ukrainian)} {email}
+- Горобець Дмитро finerlo19@gmail.com
+- Семерей Анна fyzctvthtq@gmail.com
+- Джевага Павло pavel19.1078@gmail.com
+- Йовенко Артур polzyvatel.artur@gmail.com
 
 ## Design document
 
-The [design document]({Place actual link to the design document Google Docs file here}) that
+The [design document](https://docs.google.com/document/d/1ij0DFqER8HZj1kJy-1msvoHjuxQpc4YQbiNKMr14Cpw/edit#heading=h.k57aj13un2t) that
 describes architecture and implementation details of this project.
 
 ### System structure
