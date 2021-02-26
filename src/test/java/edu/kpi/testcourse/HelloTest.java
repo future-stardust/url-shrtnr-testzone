@@ -10,8 +10,7 @@ class HelloTest {
   void simpleAlwaysGreenTest() {
     assertThat(1).isEqualTo(1);
   }
-  //TY player
+  //TY
 
-  //9925-rt
 
 }
