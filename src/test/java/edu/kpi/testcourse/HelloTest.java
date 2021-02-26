@@ -10,7 +10,5 @@ class HelloTest {
   void simpleAlwaysGreenTest() {
     assertThat(1).isEqualTo(1);
   }
-  //Anna Test
-  //Next try
-
+  //Dima Test
 }
