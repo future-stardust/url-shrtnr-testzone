@@ -7,6 +7,10 @@
 - Джевага Павло pavel19.1078@gmail.com
 - Йовенко Артур polzyvatel.artur@gmail.com
 
+## URL shortener specification
+
+The [specification document](https://docs.google.com/document/d/1RIQWpiXRuxUmI_VhMZjo-UgxMxjEIXIpC2tmMY_ZpuE/edit#heading=h.o78pw7dodfuc) that describes functional requirements, goal, scenarios and REST API endpoints.
+
 ## Design document
 
 The [design document](https://docs.google.com/document/d/1ij0DFqER8HZj1kJy-1msvoHjuxQpc4YQbiNKMr14Cpw/edit#heading=h.k57aj13un2t) that
