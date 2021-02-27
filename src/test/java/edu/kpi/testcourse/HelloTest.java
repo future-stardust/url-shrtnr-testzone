@@ -8,6 +8,4 @@ class HelloTest {
 
   @Test
   void r(){assertThat(1).isEqualTo(1);}
-
-
 }
