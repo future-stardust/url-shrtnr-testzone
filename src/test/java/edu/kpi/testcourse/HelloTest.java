@@ -7,8 +7,13 @@ import static org.assertj.core.api.Assertions.assertThat;
 class HelloTest {
 
   @Test
-  void simpleAlwaysGreenTest() {
-    assertThat(1).isEqualTo(1);
+  void compare(int a, int b){
+  if (a > b){
+    System.out.println(a);
+  } else if (a < b){
+    System.out.println(b);
   }
-  //Dima Test
+  }
+
+
 }
