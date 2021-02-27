@@ -12,6 +12,6 @@ class HelloTest {
   }
 
   @Test
-  void newFailTest(){assertThat(2).isEqualTo(2);}
+  void newFailTest(){assertThat(3).isEqualTo(2);}
 
 }
