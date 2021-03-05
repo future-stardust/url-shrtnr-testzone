@@ -11,6 +11,3 @@ class HelloTest {
     assertThat(1).isEqualTo(1);
   }
   //0000
-
-
-}
