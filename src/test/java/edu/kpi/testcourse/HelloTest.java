@@ -7,5 +7,10 @@ import static org.assertj.core.api.Assertions.assertThat;
 class HelloTest {
 
   @Test
-  void r(){assertThat(1).isEqualTo(1);}
+  void simpleAlwaysGreenTest() {
+    assertThat(1).isEqualTo(1);
+  }
+  //0000
+
+
 }
