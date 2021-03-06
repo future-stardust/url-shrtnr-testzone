@@ -14,5 +14,6 @@ class HelloTest {
 
   @Test
   void newFailTest(){assertThat(2).isEqualTo(2);}
+  //Random test comment
   
 }
