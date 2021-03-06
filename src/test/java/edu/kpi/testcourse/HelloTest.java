@@ -7,13 +7,9 @@ import static org.assertj.core.api.Assertions.assertThat;
 class HelloTest {
 
   @Test
-  
-  void simpleAlwaysGreenTest() {
-    assertThat(1).isEqualTo(1);
-  }
 
-  @Test
-  void newFailTest(){assertThat(2).isEqualTo(2);}
-  //Random test comment
-  
+  void simpleAlwaysGreenTest() {
+    assertThat(100).isEqualTo(100);
+  }
 }
+  //0000
